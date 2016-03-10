@@ -1,0 +1,44 @@
+body {
+	
+}
+
+.secondbody {
+	background-color: #f2f2f2;
+	border-radius: 25px;
+	width: 600px;
+    margin: 0 auto; 
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+.accountMAIN {
+	width: 500px;
+	margin-left:auto; 
+    margin-right:auto;
+
+}
+	
+h3 {
+	text-align: center;
+}
+
+#h3 {
+	font-family: Monospace;
+	font-size: 50px;
+}
+
+.addaccount {
+	display: block;
+	text-align: center;
+}
+	
+.armorWeapon {
+	display: block;
+	text-align: center;
+}
+
+#links {
+	color: #707070;
+}
+
